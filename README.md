@@ -1,5 +1,5 @@
 
-SQL Diaries #1 - Department Top Three Salaries
+SQL Diaries #2 - Department Top Three Salaries
 Problem
 Find employees who earn one of the top 3 unique salaries within their department.
 
